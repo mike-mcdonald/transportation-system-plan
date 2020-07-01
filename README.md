@@ -1,0 +1,4 @@
+# Transportation System Plan
+Portland’s 2035 Transportation System Plan (TSP) is a roadmap for the next 20 years of transportation policy and investment, helping us face the challenges of a growing city. The TSP outlines how we balance safety, equity and the demands of our economy. It enshrines the values of complete neighborhoods with more options for getting around. And it tells the story of how all of our planning efforts lead us to a less congested, more livable tomorrow.
+## About this repository
+This repository holds a copy of the official TSP and is not meant to be the official, legal version of the TSP. It is instead meant to be used in PBOT's [web application](http://52.156.89.244/#/) for exploring the TSP in a more visual and interactive way. This repository will be updated soon after the official TSP is approved by city council.
